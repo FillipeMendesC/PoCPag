@@ -127,8 +127,6 @@ public class Checkout {
         this.origin = origin;
     }
 
-
-
     public String getId() {
         return id;
     }
